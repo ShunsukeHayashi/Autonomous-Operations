@@ -183,6 +183,6 @@
     "lru-cache": "^11.2.2",
     "ora": "^9.0.0",
     "p-retry": "^7.1.0",
-    "terminal-link": "^3.0.0"
+    "terminal-link": "^5.0.0"
   }
 }
